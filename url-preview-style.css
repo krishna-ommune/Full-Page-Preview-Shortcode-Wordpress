@@ -1,0 +1,12 @@
+.url-preview img {
+    max-width: 100%;
+    height: auto;
+}
+.url-preview h3 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.url-preview p {
+    font-size: 16px;
+    color: #555;
+}
