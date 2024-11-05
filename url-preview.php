@@ -3,7 +3,8 @@
 Plugin Name: Full Page Preview Shortcode
 Description: A plugin to add multiple URLs and generate shortcodes to display full page previews.
 Version: 1.3
-Author: Your Name
+Author: TourTripX
+Author URI: https://tourtripx.com
 */
 
 // Enqueue necessary scripts and styles
